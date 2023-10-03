@@ -60,6 +60,4 @@ public class HttpRemoteCaller {
         currentServer = (currentServer + 1) % 3;
 
         }
-    }
-
 }
